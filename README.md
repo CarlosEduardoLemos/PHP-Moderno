@@ -19,7 +19,6 @@ Este repositório contém exemplos e exercícios práticos para o curso de PHP. 
     ```sh
     cd cursoPHP/ex000
 
-
 3. Abra o arquivo index.php no seu navegador para ver o resultado.
 
 ## Licença
