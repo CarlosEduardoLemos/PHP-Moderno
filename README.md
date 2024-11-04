@@ -1,4 +1,4 @@
-# PHP-MOderno
+# PHP-Moderno
 
 Este repositório contém exemplos e exercícios práticos para o curso de PHP. Cada subdiretório (`ex000`, `ex001`, etc.) inclui um exemplo específico com seu respectivo código fonte em PHP. O objetivo é fornecer uma base sólida para o aprendizado e a prática de PHP.
 
